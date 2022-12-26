@@ -1,3 +1,7 @@
+* Este es un proyecto (clonado del repositorio original) realizado en el Skill Up de Node.js en Alkemy. Fue completamente realizado a lo largo de dos semanas, con un equipo de 4 integrantes, incluyéndome. A continuación se encuentra el link hacia un video explicativo del proyecto.
+
+https://www.youtube.com/watch?v=2x2jn8TXpD4
+
 # Backend Node Template
 
 ## ✅ Primero lo primero: instalar las dependencias iniciales del proyecto antes de trabajar:
